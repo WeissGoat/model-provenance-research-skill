@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Provenance Research"
+  short_description: "Find and verify AI model files by evidence and SHA256"
+  default_prompt: "Find the exact source of these model references, inspect my local model folders, and classify every candidate by verification strength."
